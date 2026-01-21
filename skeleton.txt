@@ -1,0 +1,90 @@
+#---------------------------------------------
+# THE CODE SKELETON
+
+# Create empty list to store expenses
+
+
+# Print header
+
+
+# Function to add an expense
+
+
+    # Print section header
+    
+    
+    # Get expense details from user
+    
+    
+    
+    
+    # Create expense dictionary
+    
+    
+    
+    
+    
+    # Add to expenses list
+    
+    
+    # Print success message
+    
+
+# Function to view all expenses
+
+
+    # Print section header
+    
+    
+    # Check if there are any expenses
+    
+        
+        
+    
+    # Loop through and display each expense
+    
+    
+        
+
+# Function to view summary
+
+
+    # Print section header
+    
+    
+    # Check if there are any expenses
+    
+        
+        
+    
+    # Calculate total spending
+    
+    
+    # Print total
+    
+    
+    # Calculate spending by category
+    # (create a dictionary to group amounts by category)
+    
+    
+    
+    
+    # Print category breakdown
+    
+    
+        
+
+# Main menu loop
+
+
+    # Display menu options
+    
+    
+    
+    
+    
+    
+    # Get user choice
+    
+    
+    # Handle menu choices
